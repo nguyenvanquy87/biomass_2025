@@ -18,14 +18,15 @@
 
 ## 📁 Project Structure
 
-- <img src="https://img.icons8.com/ios-filled/20/000000/python.png"/> <b>app.py</b>: Main entry point to run the application
-- <img src="https://img.icons8.com/ios-filled/20/000000/dependency.png"/> <b>requirements.txt</b>: List of required Python libraries
-- <img src="https://img.icons8.com/ios-filled/20/000000/folder-invoices--v1.png"/> <b>assets/</b>: Static assets (images, CSS, JS, etc.)
-- <img src="https://img.icons8.com/ios-filled/20/000000/code.png"/> <b>GEE/</b>: JavaScript scripts for Google Earth Engine
+
+- ![Python Icon](https://img.icons8.com/ios-filled/20/000000/python.png) **app.py**: Main entry point to run the application
+- ![Dependency Icon](https://img.icons8.com/ios-filled/20/000000/dependency.png) **requirements.txt**: List of required Python libraries
+- ![Folder Icon](https://img.icons8.com/ios-filled/20/000000/folder-invoices--v1.png) **assets/**: Static assets (images, CSS, JS, etc.)
+- ![Code Icon](https://img.icons8.com/ios-filled/20/000000/code.png) **GEE/**: JavaScript scripts for Google Earth Engine
         - part1.js, part2.js, part3.js: GEE code modules
-- <img src="https://img.icons8.com/ios-filled/20/000000/page.png"/> <b>page/</b>: Application pages and UI modules
+- ![Page Icon](https://img.icons8.com/ios-filled/20/000000/page.png) **page/**: Application pages and UI modules
         - home.py, map.py: Main application pages
-- <img src="https://img.icons8.com/ios-filled/20/000000/settings.png"/> <b>utils/</b>: Utility functions and GEE authentication handling
+- ![Settings Icon](https://img.icons8.com/ios-filled/20/000000/settings.png) **utils/**: Utility functions and GEE authentication handling
         - gee_auth.py: Handles authentication with GEE
 
 ---
