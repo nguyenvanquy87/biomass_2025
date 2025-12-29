@@ -20,12 +20,12 @@
 
 
 
-- ![](https://img.icons8.com/ios-filled/20/000000/python.png) **app.py**: Main entry point to run the application
-- ![](https://img.icons8.com/ios-filled/20/000000/dependency.png) **requirements.txt**: List of required Python libraries
-- ![](https://img.icons8.com/ios-filled/20/000000/folder-invoices--v1.png) **assets/**: Static assets (images, CSS, JS, etc.)
-- ![](https://img.icons8.com/ios-filled/20/000000/code.png) **GEE/**: JavaScript scripts for Google Earth Engine - part1.js, part2.js, part3.js: GEE code modules
-- ![](https://img.icons8.com/ios-filled/20/000000/page.png) **page/**: Application pages and UI modules - home.py, map.py: Main application pages
-- ![](https://img.icons8.com/ios-filled/20/000000/settings.png) **utils/**: Utility functions and GEE authentication handling - gee_auth.py: Handles authentication with GEE
+- 🐍 **app.py**: Main entry point to run the application
+- 📦 **requirements.txt**: List of required Python libraries
+- 📁 **assets/**: Static assets (images, CSS, JS, etc.)
+- 💻 **GEE/**: JavaScript scripts for Google Earth Engine - part1.js, part2.js, part3.js: GEE code modules
+- 📄 **page/**: Application pages and UI modules - home.py, map.py: Main application pages
+- ⚙️ **utils/**: Utility functions and GEE authentication handling - gee_auth.py: Handles authentication with GEE
 
 ---
 
